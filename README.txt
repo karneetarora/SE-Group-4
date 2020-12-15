@@ -1,0 +1,5 @@
+- To run our software, download all the source code.
+- Open a folder containing all the source code using Visual Studio Code.
+- Download the Live Server extension for Visual Studio.
+- Right Click on index.html or any other html file and click Open with Live Server.
+- The website should open in your browser.
